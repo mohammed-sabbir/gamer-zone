@@ -1,0 +1,25 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700;800&display=swap');
+/* shared style */
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+/* header related style */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 240px;
+}
+nav > h3{
+    display: flex;
+    align-items: center;
+}
+nav > ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+}
