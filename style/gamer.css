@@ -356,6 +356,7 @@ footer {
 
     .banner {
         flex-direction: column-reverse;
+        align-items: center;
         width: 100%;
         padding: 0px;
         margin: 0px;
@@ -390,8 +391,8 @@ footer {
     }
 
     .banner img {
-        width: 90%;
-        justify-content: center;
+        width: 100%;
+        margin-right: 0px;
 
     }
 
