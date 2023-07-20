@@ -310,6 +310,7 @@ footer {
     width: 40px;
     height: 40px;
     display: flex;
+    cursor: pointer;
 }
 
 .f-foot {
